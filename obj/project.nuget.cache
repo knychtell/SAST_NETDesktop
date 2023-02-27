@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8MM5hMPAlubO1YRLYUbNAz8rbNh5g924SEZ6770gHHGKMwzeSTfLpLAbU5tHltXKmmCT9amk0xTEex5NfGETvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\knychtell.cortes\\Desktop\\SAST scan\\VS\\WinFormsApp1_Test\\WinFormsApp1_Test\\WinFormsApp1_Test.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\knychtell.cortes\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.0\\microsoft.netcore.app.runtime.win-x64.5.0.0.nupkg.sha512",
+    "C:\\Users\\knychtell.cortes\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.0.nupkg.sha512",
+    "C:\\Users\\knychtell.cortes\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.0\\microsoft.aspnetcore.app.runtime.win-x64.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

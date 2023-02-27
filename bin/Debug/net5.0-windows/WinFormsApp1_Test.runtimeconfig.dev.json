@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\knychtell.cortes\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\knychtell.cortes\\.nuget\\packages"
+    ]
+  }
+}
